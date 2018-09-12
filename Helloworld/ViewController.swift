@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
 //  Helloworld
-//
-//  Created by alejandro gonzalez casado on 14/9/17.
-//  Copyright © 2017 Idrilplays. All rights reserved.
+//  App votacion colossus
+//  Created by alejandro gonzalez casado on 14/9/18.
+//  Copyright © 2018 Idrilplays. All rights reserved.
 //
 
 import UIKit
